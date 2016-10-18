@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+When it is a simple or trivial change, or fix a merge conflict, or something like that.
