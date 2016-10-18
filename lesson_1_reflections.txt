@@ -5,3 +5,5 @@ hi
 What happens when you initialize a repository? Why do you need to do it?
 
 a git folder is created with metadata that will track stuff.  you need it for the initial commit idk
+
+this is kinda dumb tho right
