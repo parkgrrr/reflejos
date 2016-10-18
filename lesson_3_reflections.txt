@@ -16,3 +16,8 @@ fork - on github when you are modifying someone elses project and want to ackkno
 clone - a straight copy of a repo onto your machine
 
 branch - tracking changes in a repo seperately from other changes
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+it is nice to be able to cache it to do diffs and compare before you do a push to the server.  It is also nice to have it cached if you are working offline
