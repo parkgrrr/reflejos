@@ -21,3 +21,8 @@ branch - tracking changes in a repo seperately from other changes
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 it is nice to be able to cache it to do diffs and compare before you do a push to the server.  It is also nice to have it cached if you are working offline
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+IT would be difficult, you would probably have to host things on an ftp server, it would be hard to track changes and revert when problems arise.
