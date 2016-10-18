@@ -6,3 +6,13 @@ When it is a simple or trivial change, or fix a merge conflict, or something lik
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 because if an automatic pull happens when your in the middle of writing unfinished code it could ruin what you are working on
+
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork - on github when you are modifying someone elses project and want to ackknoledge it
+
+clone - a straight copy of a repo onto your machine
+
+branch - tracking changes in a repo seperately from other changes
